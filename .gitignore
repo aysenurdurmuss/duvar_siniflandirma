@@ -1,0 +1,20 @@
+# Sanal ortam
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio dosyaları
+.vs/
+duvar_siniflandirma.pyproj
+
+# Ham veri seti (hazır veri seti + toplanan görseller, ayrı barındırılıyor)
+veriseti/
+
+# İnternetten indirilen test görselleri
+test_gorselleri/
+
+# Çalışma zamanında oluşan tahmin kayıt dosyası
+tahmin_gunlugu.txt
