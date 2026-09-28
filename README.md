@@ -2,7 +2,7 @@
 
 Duvar yüzeylerine ait görselleri "sağlam", "çatlak" ve "kırık" sınıflarına ayıran bir görüntü sınıflandırma modelini web servisi olarak sunan FastAPI uygulaması. Bir staj projesi kapsamında geliştirilmiştir.
 
-Bu projenin arayüz (frontend) kısmı için: *(frontend reposu yayınlanınca buraya eklenecek)*
+Bu projenin arayüz (frontend) kısmı için: [duvar_frontend](https://github.com/aysenurdurmuss/duvar_frontend)
 
 ## Özellikler
 
